@@ -23,3 +23,6 @@ This project processes raw assessment sales data using BigQuery, transforms it i
 
 ## Getting Insights
 Navigate through the dashboard to analyze key sales metrics and trends. Use the Deep Dive feature to uncover additional insights from the data.
+
+## Dashboard Link
+https://lookerstudio.google.com/s/hWoiL9hWGB0
