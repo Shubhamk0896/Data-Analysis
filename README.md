@@ -1,6 +1,6 @@
 # Data-Analysis
-Sales Management Dashboard (Incubyte)
-Overview
+# Sales Management Dashboard (Incubyte)
+## Overview
 This project processes raw assessment sales data using BigQuery, transforms it into a cleaned and structured mart table, and visualizes insights through a dynamic Looker dashboard.
 
 Process Flow
